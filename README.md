@@ -1,3 +1,3 @@
-# restful_authorizer
+# RESTful Authorizer
 
 A simple authorization module for all REST APIs.
